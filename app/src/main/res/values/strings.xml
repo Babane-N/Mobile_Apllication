@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">StudentTaskManager</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login_page">LOGIN PAGE</string>
+    <string name="login">Login</string>
+    <string name="student_surname">Student Surname</string>
+    <string name="student_name">Student Name</string>
+    <string name="admin">Admin</string>
+    <string name="module_duration">Module Duration</string>
+    <string name="instructor_s_name">Instructor\'s Name</string>
+    <string name="instructor_s_surname">Instructor\'s Surname</string>
+    <string name="create_student">Create Student</string>
+    <string name="create_module">Create Module</string>
+    <string name="create_instructor">Create Instructor</string>
+    <string name="create_task">Create Task</string>
+    <string name="due_date">Due Date</string>
+    <string name="task_name">Task Name</string>
+    <string name="instructor">Instructor</string>
+    <string name="create_instructor_record">Create Instructor Record</string>
+    <string name="student_portal">Student Portal</string>
+    <string-array name="moduleNames">
+        <item>IMOB301</item>
+        <item>IENT301</item>
+        <item>IMPS301</item>
+        <item>IRUD301</item>
+    </string-array>
+
+</resources>
